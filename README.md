@@ -1,5 +1,10 @@
 # OpenFortuneCookie 
 
+![GitHub issues](https://img.shields.io/github/issues/Pkwiatkowski-ssj/FortuneCookieGenerator)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Pkwiatkowski-ssj/FortuneCookieGenerator)
+![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
+![License](https://img.shields.io/github/license/Pkwiatkowski-ssj/FortuneCookieGenerator)
+
 A simple Java console app that gives you a random fortune every time you crack a cookie!
 
 Features
