@@ -8,7 +8,8 @@ public class FortuneCookie {
         // Array of fortunes
         String[] fortunes = {
             "Your kindness will lead you to unexpected places.",
-            "Today is a good day to try something new."
+            "Today is a good day to try something new.",
+            "Muddy water is best cleared by leaving it alone."
         };
         // Welcome message
         System.out.println("🥠 Welcome to the Fortune Cookie Generator!");
