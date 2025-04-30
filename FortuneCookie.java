@@ -9,7 +9,8 @@ public class FortuneCookie {
         String[] fortunes = {
             "Your kindness will lead you to unexpected places.",
             "Today is a good day to try something new.",
-            "Muddy water is best cleared by leaving it alone."
+            "Muddy water is best cleared by leaving it alone.",
+            "Don't pay for Netflix that you can't use."
         };
         // Welcome message
         System.out.println("🥠 Welcome to the Fortune Cookie Generator!");
