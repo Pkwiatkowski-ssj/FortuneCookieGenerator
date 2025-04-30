@@ -18,7 +18,7 @@ Want to add your own fortune to the list?
 1. Fork this repo
 2. Add your fortune to the `fortunes[]` array in `FortuneCookie.java`
 
-"Today’s code is tomorrow’s cookie wisdom." – Kilo
+"Today’s code is tomorrow’s wisdom." – Kilo
 
 License
 MIT – feel free to use and improve!
